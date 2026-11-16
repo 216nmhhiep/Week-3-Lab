@@ -1,0 +1,2 @@
+# Only the Task 1 Parquet experiment needs an external library.
+pyarrow>=14,<27
