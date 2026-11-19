@@ -1,4 +1,4 @@
-"""Implement these functions using the contracts in README.md."""
+"""Implement these functions using the contracts in TASKS.md."""
 from models import ISAM, RangeResult, RowGroup, ScanPlan
 
 
